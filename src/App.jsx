@@ -8,7 +8,7 @@ const config = {
     limit: 10, 
     exclude: {
       forks: false,
-      projects: ['dsa-cpp','theydvgaurav','YC-Frontend', 'BS-Assignment'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      projects: ['dsa-cpp','theydvgaurav','YC-Frontend', 'BS-Assignment', 'theydvgaurav.github.io'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
